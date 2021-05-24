@@ -1,0 +1,42 @@
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.exe
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.deps.json
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.runtimeconfig.json
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.runtimeconfig.dev.json
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.dll
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\ref\Havan Projeto.dll
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.pdb
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan_Projeto.Formularios.NovaMoeda.resources
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan_Projeto.Formularios.NovoCambio.resources
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan_Projeto.Form1.resources
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.csproj.GenerateResource.cache
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.AssemblyInfoInputs.cache
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.AssemblyInfo.cs
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.csproj.CoreCompileInputs.cache
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.csproj.CopyComplete
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.dll
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\ref\Havan Projeto.dll
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.pdb
+C:\Users\6437460\OneDrive\Área de Trabalho\Trabalho Sion\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.genruntimeconfig.cache
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.exe
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.deps.json
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.runtimeconfig.json
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.runtimeconfig.dev.json
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.dll
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\ref\Havan Projeto.dll
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Havan Projeto.pdb
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan_Projeto.Formularios.NovaMoeda.resources
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan_Projeto.Formularios.NovoCambio.resources
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan_Projeto.Form1.resources
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.csproj.GenerateResource.cache
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.AssemblyInfoInputs.cache
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.AssemblyInfo.cs
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.csproj.CoreCompileInputs.cache
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.csproj.CopyComplete
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.dll
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\ref\Havan Projeto.dll
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.pdb
+C:\Users\6437460\OneDrive\Documentos\Aulas\Havan Projeto\Havan Projeto\Havan Projeto\obj\Debug\net5.0-windows\Havan Projeto.genruntimeconfig.cache

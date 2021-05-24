@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLkv5M1wg0BvVTIel1yErCJ2jLnErPB5V7UX0g10uJaazxwkM9MvxztHQP8W9YflLSu1zT+TN5oZM60ZZyp4Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\6437460\\OneDrive\\Documentos\\Aulas\\Havan Projeto\\Havan Projeto\\Havan Projeto\\Havan Projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\6437460\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
